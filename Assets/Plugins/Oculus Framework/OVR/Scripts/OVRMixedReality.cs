@@ -23,6 +23,7 @@ using System.Runtime.InteropServices;
 using System.Text.RegularExpressions;
 using System.Collections.Generic;
 using UnityEngine;
+using VR = UnityEngine.VR;
 
 #if UNITY_EDITOR_WIN || UNITY_STANDALONE_WIN
 

@@ -20,6 +20,7 @@ limitations under the License.
 ************************************************************************************/
 
 using UnityEngine;
+using VR = UnityEngine.VR;
 
 /// <summary>
 /// Logs when the application enters power save mode and allows you to a low-power CPU/GPU level with a button press.
